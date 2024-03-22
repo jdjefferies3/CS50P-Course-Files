@@ -1,5 +1,6 @@
 import sys
 from PIL import Image
+from PIL import ImageOps
 
 def shirt(file_one, file_two):
     # Check if extension is JPEG or PNG
